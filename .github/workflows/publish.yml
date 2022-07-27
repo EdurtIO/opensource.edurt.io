@@ -16,11 +16,11 @@ jobs:
       - run: pip install mkdocs-material=="8.4.0rc1"
       - run: pip install git+https://${{ secrets.GH_TOKEN }}@github.com/squidfunk/mkdocs-material-insiders.git
       - run: pip install mkdocs-git-revision-date-localized-plugin
-      - run: pip install mkdocs-static-i18n>=0.43
-      
+
       - name: Deploy docs
         uses: mhausenblas/mkdocs-deploy-gh-pages@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CONFIG_FILE: mkdocs.yml
           EXTRA_PACKAGES: build-base
+          REQUIREMENTS: requirements.txt
