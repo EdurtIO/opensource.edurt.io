@@ -125,6 +125,9 @@ plugins:
       enable_creation_date: true
       fallback_to_build_date: true
 
+  - git-committers:
+      repository: EdurtIO/opensource.edurt.io
+
   - redirects:
       redirect_maps:
         publish-project-new.md: project/dbm.md
