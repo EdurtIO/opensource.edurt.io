@@ -18,7 +18,7 @@ hide:
 
 # Development & Common Tools
 
-<div class="grid cards" markdown style="padding: 0 50px 30px 50px;">
+<div class="grid cards padding-bottom-50" markdown>
 
 - __[dbm](/project/dbm.html "Full platform database management tool, supports ClickHouse, Presto, Trino, MySQL, PostgreSQL...!") <em class="right">[![GitHub stars](https://img.shields.io/github/stars/EdurtIO/incubator-dbm)](https://github.com/EdurtIO/incubator-dbm/stargazers)</em>__
 
@@ -40,7 +40,7 @@ hide:
 
 # Business & Application System
 
-<div class="grid cards" markdown style="padding: 0 50px 30px 50px;">
+<div class="grid cards padding-bottom-50" markdown>
 
 - __[wikift](https://wikift.edurt.io "Enterprise level wikift is open source wiki system.") <em class="right">[![GitHub stars](https://img.shields.io/github/stars/EdurtIO/wikift)](https://github.com/EdurtIO/wikift/stargazers)</em>__
 
