@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+         <loc>https://opensource.edurt.io/index.html</loc>
+         <lastmod>2022-07-28</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://opensource.edurt.io/en/index.html"/>
+         
+    </url>
+    <url>
+         <loc>https://opensource.edurt.io/projects.html</loc>
+         <lastmod>2022-07-28</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://opensource.edurt.io/en/projects.html"/>
+         
+    </url>
+    <url>
+         <loc>https://opensource.edurt.io/tags.html</loc>
+         <lastmod>2022-07-28</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://opensource.edurt.io/en/tags.html"/>
+         
+    </url>
+    <url>
+         <loc>https://opensource.edurt.io/project/dbm.html</loc>
+         <lastmod>2022-07-28</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://opensource.edurt.io/en/project/dbm.html"/>
+         
+    </url>
+</urlset>
